@@ -12,9 +12,9 @@
 744K   │ └─┬ nmap
 732K   │   ├── Services.md
 8.0K   │   └── README.md
-472K   ├─┬ misc
-168K   │ ├─┬ Github
-164K   │ │ └─┬ Runners
+476K   ├─┬ misc
+172K   │ ├─┬ Github
+168K   │ │ └─┬ Runners
  68K   │ │   ├─┬ Self-Hosted
  16K   │ │   │ ├── x86_64-ubuntu.dockerfile
  16K   │ │   │ ├── aarch64-ubuntu.dockerfile
@@ -30,8 +30,8 @@
 4.0K   │ │   │ ├── setup_tailscale.sh
 4.0K   │ │   │ ├── ipv6_warp.sh
 4.0K   │ │   │ └── debloat.sh
- 24K   │ │   ├─┬ Windows
- 20K   │ │   │ └── 0xf_gh_runner_windows_debug.yaml
+ 28K   │ │   ├─┬ Windows
+ 24K   │ │   │ └── 0xf_gh_runner_windows_debug.yaml
 8.0K   │ │   └─┬ macOS
 4.0K   │ │     └── 0xf_gh_runner_macos_debug.yaml
  92K   │ ├─┬ Linux
