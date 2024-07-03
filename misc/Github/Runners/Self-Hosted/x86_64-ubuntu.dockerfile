@@ -98,7 +98,7 @@ RUN <<EOS
 EOS
 ##Set PATH [Default: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin] /command is s6-tools
 #ENV PATH "/command:${PATH}"
-RUN echo 'export PATH="/command:${PATH}"' >> "/etc/bash.bashrc"
+#RUN echo 'export PATH="/command:${PATH}"' >> "/etc/bash.bashrc"
 #------------------------------------------------------------------------------------#
 
 #------------------------------------------------------------------------------------#
